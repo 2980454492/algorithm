@@ -3,6 +3,7 @@
 using namespace std;
 #include<vector>
 
+//快速排序类
 template<typename T>
 class QuickSort
 {
